@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "anthropic.claude-code",
+    "amazonwebservices.aws-toolkit-vscode",
+    "ms-python.python",
+    "charliermarsh.ruff",
+    "ms-vscode-remote.remote-wsl"
+  ]
+}

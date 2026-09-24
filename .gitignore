@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# CDK
+infra/cdk.out/
+
+# Secrets and personal Claude Code settings
+.env
+.env.*
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Media you test with
+*.mp4
+*.mov
