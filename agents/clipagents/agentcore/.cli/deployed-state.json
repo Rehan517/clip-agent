@@ -1,0 +1,22 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "CampaignAnalyst": {
+            "runtimeId": "clipagents_CampaignAnalyst-TVz3nm82sP",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:730763715981:runtime/clipagents_CampaignAnalyst-TVz3nm82sP",
+            "roleArn": "arn:aws:iam::730763715981:role/AgentCore-clipagents-defa-ApplicationAgentCampaignA-wNK57XUgYOEh"
+          },
+          "MomentFinder": {
+            "runtimeId": "clipagents_MomentFinder-ncxhMj8xwv",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:730763715981:runtime/clipagents_MomentFinder-ncxhMj8xwv",
+            "roleArn": "arn:aws:iam::730763715981:role/AgentCore-clipagents-defa-ApplicationAgentMomentFin-Jv4uxv6uL3bP"
+          }
+        },
+        "stackName": "AgentCore-clipagents-default",
+        "deployHash": "036f3f67b5eb58f4"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Campaign: Local development test
+Campaign ID: test
+Purpose: Test the clipping pipeline. No publishing or paid submissions.
+Source: samples/ep1.mp4
+
+Clip requirements:
+- Duration: 20–45 seconds.
+- Each clip should make sense without additional context.
+- Start with an engaging hook.
+- Preserve the speaker's meaning.
+- Do not invent statements or claims.
+
+Payment: None. This is a test campaign.
